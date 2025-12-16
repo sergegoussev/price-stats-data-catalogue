@@ -50,7 +50,7 @@ To contribute a dataset to this catalogue, please submit either an issue to this
 
 ## Technical context
 
-We are exploring the use of [data contract cli](https://cli.datacontract.com/) as a way to document and track datasets as the python library comes with a [data catalog](https://datacontract.com/examples/index.html).
+We use [data contract cli](https://cli.datacontract.com/) as a way to document and track datasets as the python library comes with a [data catalog](https://datacontract.com/examples/index.html). A simple [post-processing script](/post-processing.py) modifies the default html slightly. 
 
 ## Who are we?
 
